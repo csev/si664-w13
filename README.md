@@ -14,6 +14,12 @@ Install git
   than *Use Git Bash only*. 
   (<a href="00-images/01-windows-install.png" target="_blank">Image</a>)
 
+Make a github Account
+---------------------
+
+TO save time in class make a github account before you come to class to 
+particpate in the in-class git activity.
+
 Here are some resources
 -----------------------
 
