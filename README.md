@@ -18,7 +18,7 @@ Make a github Account
 ---------------------
 
 To save time in class make a github account before you come to class to 
-participate in the in-class git activity.
+particpate in the in-class git activity.
 
 Here are some resources
 -----------------------
